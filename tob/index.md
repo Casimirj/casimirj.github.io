@@ -1,4 +1,9 @@
 
+layout: page
+title: "Index"
+permalink: /tob/
+
+
 [[Maiden]]
 [[Bloat]]
 [[Nylo]]
