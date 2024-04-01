@@ -30,3 +30,11 @@ P1 perspectives of 1112:
 P1:
 
 ![](assets/img/Pasted%20image%2020240401164406.png)
+
+
+
+
+
+
+
+https://lmperium2096.github.io/verzik_trainer/
