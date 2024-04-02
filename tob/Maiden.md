@@ -4,9 +4,7 @@
 
 
 [Fight Overview](Maiden/fight-overview) \
-[Plugins](Maiden/plugins) \
+[Plugins](Maiden/plugins) 
 
-
-
-Freeze thresholds
+Freeze thresholds \
 ![asdf](/assets/img/Maiden-1.png)
