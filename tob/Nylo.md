@@ -4,7 +4,7 @@
 
 
 
-[Plugins](Nylo/plugins) 
+[Plugins](Nylo/Plugins)
 
 
 
