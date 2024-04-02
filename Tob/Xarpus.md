@@ -1,6 +1,10 @@
 
 
 
+[Plugins](Tob/Xarpus/Plugins.md) 
+
+
+
 Xarp Spec Roles
 ------------------------------
 3s: 
@@ -14,4 +18,3 @@ Xarp Spec Roles
 	ranger/melees: hammer scy
 
 
-Xarpus annoyance mute ids: 6009,5984,3541,3975,4018,3964
