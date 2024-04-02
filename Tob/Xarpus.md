@@ -1,7 +1,7 @@
 
 
 
-[Plugins](Tob/Xarpus/Plugins.md) 
+[Plugins](Xarpus/Plugins.md) 
 
 
 
