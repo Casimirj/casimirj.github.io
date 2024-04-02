@@ -13,4 +13,4 @@
 
 
 
-![](assets/img/Nylo-1.png)
+![](/assets/img/Nylo-1.png)
