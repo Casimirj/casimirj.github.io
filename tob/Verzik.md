@@ -1,4 +1,4 @@
 
 
 
-![[assets/img/Verzik-1.png]]
+![[/assets/img/Verzik-1.png]]

@@ -2,4 +2,4 @@
 
 
 
-![[../assets/img/Bloat-3.png]]
+![](assets/img/Bloat-3.png)
