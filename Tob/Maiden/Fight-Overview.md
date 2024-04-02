@@ -1,7 +1,7 @@
 
 ## Attacks
 Maidens Magic Attack \
-![](/assets/img/Maiden-4.gif)
+![](/assets/img/Maiden-3.gif)
 
 Maidens Blood Attack \
 ![](/assets/img/Maiden-4.gif)
