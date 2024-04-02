@@ -12,4 +12,5 @@ permalink: /tob/
 [[Verzik]]
 
 
-[Test Link!](/tob/Maiden.md)
+[Test Link!](Maiden.md)
+s
