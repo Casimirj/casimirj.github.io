@@ -1,1 +1,1 @@
-![Nylo Waves](assets/img/Pasted%20image%2020240401163745.png)
+![Nylo Waves](assets/images/Pasted%20image%2020240401163745.png)
