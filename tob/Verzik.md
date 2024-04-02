@@ -2,7 +2,7 @@
 
 
 
-![](assets/images/Pasted%20image%2020240401164453.png)
+![](assets/img/Pasted%20image%2020240401164453.png)
 In trios the team will do 112, it follows a snake-like pattern (1-2-3-3-2-1-1-2-3).
 Again, the diagram below has all the instructions. 
 When player 1 gets the staff for the 2nd time, and verzik is <45% hp, double spec and stay on verzik. Player 2 and 3 then also stay the boss and dump their specs. Do not do this if not everybody knows how to do this.
@@ -29,7 +29,7 @@ P1 perspectives of 1112:
 
 P1:
 
-![](assets/images/Pasted%20image%2020240401164406.png)
+![](assets/img/Pasted%20image%2020240401164406.png)
 
 
 
