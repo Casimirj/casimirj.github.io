@@ -5,4 +5,4 @@ permalink: /tob/
 
 
 
-![](assets/img/Maiden-1.png)
+![](/assets/img/Maiden-1.png)
