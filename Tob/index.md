@@ -1,11 +1,11 @@
 
 
-[Maiden](Tob/Maiden.md)  
-[Bloat](Tob/Bloat.md)  
-[Nylo](Tob/Nylo.md)  
-[Soteseg](Tob/Soteseg.md)  
-[Xarpus](Tob/Xarpus.md)  
-[Verzik](Tob/Verzik.md)  
+[Maiden](Maiden.md)  
+[Bloat](Bloat.md)  
+[Nylo](Nylo.md)  
+[Soteseg](Soteseg.md)  
+[Xarpus](Xarpus.md)  
+[Verzik](Verzik.md)  
 
 
 
