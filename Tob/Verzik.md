@@ -2,7 +2,7 @@
 
 
 ![](/assets/img/Verzik-1.png)
-
+[Verzik Radius Markers](/assets/radius-markers/verzik-radius-markers.txt)
 
 
 

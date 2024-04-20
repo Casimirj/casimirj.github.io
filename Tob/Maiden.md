@@ -7,4 +7,4 @@
 [Plugins](Maiden/Plugins.md) 
 
 Freeze thresholds \
-![asdf](/assets/img/Maiden-1.png)
+![asdf](Tob/Xarpus/Maiden-1.png)
